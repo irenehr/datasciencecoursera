@@ -1,2 +1,2 @@
-# test-repo
-This is a test repo
+# datasciencecoursera
+This is a test repo for coursera data science course
